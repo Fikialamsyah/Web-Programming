@@ -1,0 +1,26 @@
+.container {
+    width: 50%;
+}
+
+fieldset {
+    background: rgba(165, 225, 247, 0.5);
+}
+
+table th {
+    background: rgba(165, 225, 247, 0.3);
+    width: 20%;
+}
+
+table td{
+    background: #ffffff;
+    width: 20%;
+    text-align: center;
+}
+
+select {
+    width: 100%;
+}
+
+#uang {
+    width: 97%;
+}
